@@ -70,4 +70,4 @@ Commit and push as usual; companions and their `status` changes keep a reviewabl
 ## Notes
 
 - The hook blocks Edit/Write on DM notes but does not stop shell commands. This is a collaboration guard, not a security boundary.
-- Content is game material provided by the DM; keep the repo private.
+- Content is game material provided by the DM and is shared here with their knowledge.
