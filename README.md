@@ -45,7 +45,7 @@ Every note has `owner:` in its frontmatter.
 | `/threads` | all | Open quests and unanswered questions |
 | `/note <text>` | all | Quick capture into `Inbox/` |
 | `/recap <notes>` | all | Turn raw notes into a session recap |
-| `/init-character <name>` | all | Scaffold a PC/NPC note |
+| `/character-concept [name]` | all | Brainstorm and/or interview to build a PC/NPC concept note |
 | `/propose <note> <change>` | players | Propose a change via a companion note |
 | `/dm-digest` | players | Collect proposed companions into a DM digest |
 | `/triage` | all | File `Inbox/` items |
